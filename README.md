@@ -1,2 +1,12 @@
 # simple_lifespan_scaling
-簡単な寿命計算ソフト。医学的根拠は一切ありませんし、医療目的で使わないでください。あくまでエンタメ程度に思ってください。A simple life expectancy calculator. It has absolutely no medical basis, so please do not use it for medical purposes. Just treat it as a bit of fun.
+
+簡単な寿命計算ソフトです。  
+医学的根拠はなく、医療目的では使えません。エンタメ用途のみを想定しています。
+
+A simple life expectancy calculator.  
+It has no medical basis and must not be used for medical decisions. It is for entertainment only.
+
+## License
+
+詳細は `LICENSE` を参照してください。  
+See `LICENSE` for details.
