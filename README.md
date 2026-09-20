@@ -8,5 +8,5 @@ It has no medical basis and must not be used for medical decisions. It is for en
 
 ## License
 
-詳細は `/home/runner/work/simple_lifespan_scaling/simple_lifespan_scaling/LICENSE` を参照してください。  
-See `/home/runner/work/simple_lifespan_scaling/simple_lifespan_scaling/LICENSE` for details.
+詳細は `LICENSE` を参照してください。  
+See `LICENSE` for details.
