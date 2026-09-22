@@ -7,6 +7,10 @@
 開発された環境はlinux mint 22.3.よって、同等な動作環境を求める。
 windowsまたは、macでの動作は想定されてない。
 
+~ このソフトの挙動 ~ 
+名前と年齢を入力すると、80歳の寿命だと仮定して、残りの時間と、過ごしてきた時間が表示される。簡単なプログラムです。
+
+
 A simple life expectancy calculator.  
 It has no medical basis and must not be used for medical decisions. It is for entertainment only.
 
