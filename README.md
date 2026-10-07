@@ -15,6 +15,5 @@ A simple life expectancy calculator.
 It has no medical basis and must not be used for medical decisions. It is for entertainment only.
 
 ## License
-
-詳細は `LICENSE` を参照してください。  
-See `LICENSE` for details.
+Licenseを参照して下さい。
+Please refer the License.
